@@ -1,0 +1,146 @@
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>FILOSOFIA</title>
+   <style>
+     .titulo {
+      color: blueviolet;
+      font-size: 50px;
+      position: fixed;
+      top: 60px;
+      right: 100px;
+     }
+     .titulo2 {
+      color: cadetblue;
+      font-size: 25px;
+      position: fixed;
+      top: 50px;
+      right: 150px;
+     }
+     .img {
+      position: fixed;
+      right: 170px;
+      top: 150px;
+     }
+     .social {
+      position: fixed;
+      bottom: 0px;
+     }
+     .botones3 {
+      color: rgb(200, 10, 243);
+      display: flex;
+      flex-direction: column;
+      gap: 20px; 
+      position: fixed; 
+      left: 50px;
+      top: 150px;
+     }
+     .botones3 button{
+      padding: 15px 15px; 
+      font-size: 16px; 
+      background-color: rgb(184, 38, 252); 
+      color: rgb(14, 220, 182); 
+      border: none; 
+      cursor: pointer;
+     }
+     .botonG {
+      padding: 15px 15px; 
+      font-size: 16px; 
+      background-color: rgb(184, 38, 252); 
+      color: rgb(14, 220, 182); 
+      border: none; 
+      cursor: pointer;
+      position: fixed;
+      right: 100px;
+      bottom: 50px;
+
+     }
+     .botonG button{
+      padding: 15px 15px; 
+      font-size: 16px; 
+      background-color: rgb(184, 38, 252); 
+      color: rgb(14, 220, 182); 
+      border: none; 
+      cursor: pointer;
+
+     }
+
+     
+
+   </style>
+</head>
+
+<body background="fon3.jpg">
+
+   <h1 class="titulo">DATOS INTERESANTES</h1>
+   <h2 class="titulo2"></h2>
+
+   <div class="botones3">
+      <a href="HERACLITO.html">
+         <button>HERACLITO</button>
+      </a>
+      <a href="PLATON.html">
+         <button>PLATON</button>
+      </a>
+      <a href="EGIPCIAA.html">
+         <button>EGIPCIA</button>
+      </a>
+      <a href="GRIEGAA.html">
+         <button>GRIEGA</button>
+      </a>
+      <a href="MAYA(2).html">
+         <button>MAYA</button>
+      </a>
+	  
+	   </a>
+      <a href="PARMENIDESSSS.html">
+         <button>PARMENIDES</button>
+      </a>
+	  
+	   </a>
+      <a href="socrates.html">
+         <button>SOCRATES</button>
+      </a>
+	  
+	   </a>
+      <a href="aristoteles.html">
+         <button>ARISTOTELES</button>
+      </a>
+	  
+	    </a>
+      <a href=".html">
+         <button>FILOSOFIA</button>
+      </a>
+	  
+	    </a>
+      <a href="MITOLOGIA.html">
+         <button>MITOLOGIA</button>
+      </a>
+
+   </div>
+   <div class="img">
+      <img src="ppp.png" width="250" height="400">
+   </div>
+   <div class="social">
+      <a href=" target=""_blank">
+         <img src="face.png" width="50" height="50">
+      </a>
+      <a href="" target="_blank">
+         <img src="insta.png" width="50" height="50">
+      </a>
+      <a href="" target="_blank">
+         <img src="tok.png" width="50" height="50">
+      </a>
+   </div>
+   <div class="botonG">
+      <a
+         href="">
+         <button></button>
+      </a>
+   </div>
+
+</body>
+
+</html>
